@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Email: n2ftor@gmail.com
+
 <!--
 **N2ftor/N2ftor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
